@@ -1,0 +1,5 @@
+-----------------
+Datos registrados
+-----------------
+Nombre y Apellido.........: Roberto Flores
+Género....................: Maculino
